@@ -1,0 +1,9 @@
+Added Book: 1001 - "The Great BOY" by F. Scott Fitzgerald, ISBN: 9780743273565
+Added Book: 1002 - "To Kill a Dog" by Harper Lee, ISBN: 9780061120084
+Patron ID 2001 not found.
+Patron ID 2001 not found.
+Available Books:
+- Book ID 1001: "The Great BOY" by F. Scott Fitzgerald
+- Book ID 1002: "To Kill a Dog" by Harper Lee
+Book Details for ID 1001:
+            - "The Great BOY" by F. Scott Fitzgerald, ISBN: 9780743273565, Available: Yes

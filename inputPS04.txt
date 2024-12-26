@@ -1,6 +1,0 @@
-addBook: 1001, "The Great Gatsby", "F. Scott Fitzgerald", "9780743273565"
-addBook: 1002, "To Kill a Mockingbird", "Harper Lee", "9780061120084"
-borrowBook: 1002, 2001
-returnBook: 1002, 2001
-listAvailableBooks
-checkBook: 1001

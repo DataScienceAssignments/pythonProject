@@ -287,4 +287,4 @@ class LibraryManagementSystem:
 
 
 lms = LibraryManagementSystem()
-lms.processInputFile('stress_test_input.txt', 'stress_test_output.txt')
+lms.processInputFile('./inputs_outputs/inputPS04.txt', './inputs_outputs/outputPS04.txt')
