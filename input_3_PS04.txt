@@ -1,0 +1,88 @@
+addBook: 1001, "The Great Gatsby", "F. Scott Fitzgerald", "9780743273565"
+addBook: 1002, "To Kill a Mockingbird", "Harper Lee", "9780061120084"
+addBook: 1003, "1984", "George Orwell", "9780451524935"
+addBook: 1004, "Pride and Prejudice", "Jane Austen", "9781503290563"
+addBook: 1005, "The Catcher in the Rye", "J.D. Salinger", "9780316769488"
+addBook: 1006, "The Lord of the Rings", "J.R.R. Tolkien", "9780261103252"
+addBook: 1007, "Moby Dick", "Herman Melville", "9781851244422"
+addBook: 1008, "War and Peace", "Leo Tolstoy", "9780307476455"
+addBook: 1009, "The Odyssey", "Homer", "9780140268867"
+addBook: 1010, "The Hobbit", "J.R.R. Tolkien", "9780345339683"
+addBook: 1011, "Crime and Punishment", "Fyodor Dostoevsky", "9780143058144"
+addBook: 1012, "The Brothers Karamazov", "Fyodor Dostoevsky", "9780374528379"
+addBook: 1013, "Dracula", "Bram Stoker", "9781853267214"
+addBook: 1014, "Frankenstein", "Mary Shelley", "9780486282114"
+addBook: 1015, "Brave New World", "Aldous Huxley", "9780060850524"
+addBook: 1016, "Fahrenheit 451", "Ray Bradbury", "9781451673319"
+
+addPatron: 2001, "John Doe"
+addPatron: 2002, "Jane Smith"
+addPatron: 2003, "Alice Brown"
+addPatron: 2004, "Bob White"
+addPatron: 2005, "Charlie Green"
+addPatron: 2006, "David Black"
+addPatron: 2007, "Eva Blue"
+addPatron: 2008, "Frank Yellow"
+addPatron: 2009, "Grace Purple"
+addPatron: 2010, "Henry Red"
+
+borrowBook: 1002, 2001
+borrowBook: 1003, 2002
+borrowBook: 1004, 2003
+borrowBook: 1005, 2004
+borrowBook: 1006, 2005
+borrowBook: 1007, 2006
+borrowBook: 1008, 2007
+borrowBook: 1009, 2008
+borrowBook: 1010, 2009
+borrowBook: 1011, 2010
+borrowBook: 1012, 2001
+borrowBook: 1013, 2002
+borrowBook: 1014, 2003
+borrowBook: 1015, 2004
+borrowBook: 1016, 2005
+
+returnBook: 1003, 2002
+returnBook: 1006, 2005
+returnBook: 1010, 2009
+returnBook: 1002, 2001
+returnBook: 1004, 2003
+returnBook: 1012, 2001
+returnBook: 1016, 2005
+
+checkBook: 1001
+checkBook: 1002
+checkBook: 1003
+checkBook: 1004
+checkBook: 1005
+checkBook: 1006
+checkBook: 1007
+checkBook: 1008
+checkBook: 1009
+checkBook: 1010
+
+listAvailableBooks
+
+listBooksByAuthor: "J.R.R. Tolkien"
+listBooksByAuthor: "Fyodor Dostoevsky"
+listBooksByAuthor: "Aldous Huxley"
+
+listPatronsBooks: 2001
+listPatronsBooks: 2002
+listPatronsBooks: 2003
+listPatronsBooks: 2004
+listPatronsBooks: 2005
+
+removeBook: 1007
+removeBook: 1008
+removeBook: 1009
+removeBook: 1010
+removeBook: 1011
+removeBook: 1012
+
+removeBook: 9999
+
+addBook: 1020, "The Fault in Our Stars", "John Green", "9780525478812"
+borrowBook: 1020, 2002
+returnBook: 1020, 2002
+checkBook: 1020

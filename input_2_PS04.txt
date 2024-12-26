@@ -1,0 +1,16 @@
+addBook: 1001, "The Great Gatsby", "F. Scott Fitzgerald", "9780743273565"
+addBook: 1002, "To Kill a Mockingbird", "Harper Lee", "9780061120084"
+addBook: 1003, "1984", "George Orwell", "9780451524935"
+addBook: 1004, "Pride and Prejudice", "Jane Austen", "9781503290563"
+addPatron: 2001, "John Doe"
+addPatron: 2002, "Jane Smith"
+borrowBook: 1002, 2001
+borrowBook: 1003, 2002
+returnBook: 1003, 2002
+checkBook: 1998
+checkBook: 1002
+listAvailableBooks
+listBooksByAuthor: "George Orwell"
+listPatronsBooks: 2001
+removeBook: 1001
+removeBook: 1003

@@ -1,0 +1,116 @@
+Added Book: 1001 - "The Great Gatsby" by F. Scott Fitzgerald, ISBN: 9780743273565
+Added Book: 1002 - "To Kill a Mockingbird" by Harper Lee, ISBN: 9780061120084
+Added Book: 1003 - "1984" by George Orwell, ISBN: 9780451524935
+Added Book: 1004 - "Pride and Prejudice" by Jane Austen, ISBN: 9781503290563
+Added Book: 1005 - "The Catcher in the Rye" by J.D. Salinger, ISBN: 9780316769488
+Added Book: 1006 - "The Lord of the Rings" by J.R.R. Tolkien, ISBN: 9780261103252
+Added Book: 1007 - "Moby Dick" by Herman Melville, ISBN: 9781851244422
+Added Book: 1008 - "War and Peace" by Leo Tolstoy, ISBN: 9780307476455
+Added Book: 1009 - "The Odyssey" by Homer, ISBN: 9780140268867
+Added Book: 1010 - "The Hobbit" by J.R.R. Tolkien, ISBN: 9780345339683
+Added Book: 1011 - "Crime and Punishment" by Fyodor Dostoevsky, ISBN: 9780143058144
+Added Book: 1012 - "The Brothers Karamazov" by Fyodor Dostoevsky, ISBN: 9780374528379
+Added Book: 1013 - "Dracula" by Bram Stoker, ISBN: 9781853267214
+Added Book: 1014 - "Frankenstein" by Mary Shelley, ISBN: 9780486282114
+Added Book: 1015 - "Brave New World" by Aldous Huxley, ISBN: 9780060850524
+Added Book: 1016 - "Fahrenheit 451" by Ray Bradbury, ISBN: 9781451673319
+Unknown command: 
+Added Patron: 2001 - John Doe
+Added Patron: 2002 - Jane Smith
+Added Patron: 2003 - Alice Brown
+Added Patron: 2004 - Bob White
+Added Patron: 2005 - Charlie Green
+Added Patron: 2006 - David Black
+Added Patron: 2007 - Eva Blue
+Added Patron: 2008 - Frank Yellow
+Added Patron: 2009 - Grace Purple
+Added Patron: 2010 - Henry Red
+Unknown command: 
+Patron 2001 borrowed "To Kill a Mockingbird" (Book ID: 1002)
+Patron 2002 borrowed "1984" (Book ID: 1003)
+Patron 2003 borrowed "Pride and Prejudice" (Book ID: 1004)
+Patron 2004 borrowed "The Catcher in the Rye" (Book ID: 1005)
+Patron 2005 borrowed "The Lord of the Rings" (Book ID: 1006)
+Patron 2006 borrowed "Moby Dick" (Book ID: 1007)
+Patron 2007 borrowed "War and Peace" (Book ID: 1008)
+Patron 2008 borrowed "The Odyssey" (Book ID: 1009)
+Patron 2009 borrowed "The Hobbit" (Book ID: 1010)
+Patron 2010 borrowed "Crime and Punishment" (Book ID: 1011)
+Patron 2001 borrowed "The Brothers Karamazov" (Book ID: 1012)
+Patron 2002 borrowed "Dracula" (Book ID: 1013)
+Patron 2003 borrowed "Frankenstein" (Book ID: 1014)
+Patron 2004 borrowed "Brave New World" (Book ID: 1015)
+Patron 2005 borrowed "Fahrenheit 451" (Book ID: 1016)
+Unknown command: 
+Patron 2002 returned "1984" (Book ID: 1003)
+Patron 2005 returned "The Lord of the Rings" (Book ID: 1006)
+Patron 2009 returned "The Hobbit" (Book ID: 1010)
+Patron 2001 returned "To Kill a Mockingbird" (Book ID: 1002)
+Patron 2003 returned "Pride and Prejudice" (Book ID: 1004)
+Patron 2001 returned "The Brothers Karamazov" (Book ID: 1012)
+Patron 2005 returned "Fahrenheit 451" (Book ID: 1016)
+Unknown command: 
+Book Details for ID 1001:
+            - "The Great Gatsby" by F. Scott Fitzgerald, ISBN: 9780743273565, Available: Yes
+Book Details for ID 1002:
+            - "To Kill a Mockingbird" by Harper Lee, ISBN: 9780061120084, Available: Yes
+Book Details for ID 1003:
+            - "1984" by George Orwell, ISBN: 9780451524935, Available: Yes
+Book Details for ID 1004:
+            - "Pride and Prejudice" by Jane Austen, ISBN: 9781503290563, Available: Yes
+Book Details for ID 1005:
+            - "The Catcher in the Rye" by J.D. Salinger, ISBN: 9780316769488, Available: No
+Book Details for ID 1006:
+            - "The Lord of the Rings" by J.R.R. Tolkien, ISBN: 9780261103252, Available: Yes
+Book Details for ID 1007:
+            - "Moby Dick" by Herman Melville, ISBN: 9781851244422, Available: No
+Book Details for ID 1008:
+            - "War and Peace" by Leo Tolstoy, ISBN: 9780307476455, Available: No
+Book Details for ID 1009:
+            - "The Odyssey" by Homer, ISBN: 9780140268867, Available: No
+Book Details for ID 1010:
+            - "The Hobbit" by J.R.R. Tolkien, ISBN: 9780345339683, Available: Yes
+Unknown command: 
+Available Books:
+- Book ID 1001: "The Great Gatsby" by F. Scott Fitzgerald
+- Book ID 1002: "To Kill a Mockingbird" by Harper Lee
+- Book ID 1003: "1984" by George Orwell
+- Book ID 1004: "Pride and Prejudice" by Jane Austen
+- Book ID 1006: "The Lord of the Rings" by J.R.R. Tolkien
+- Book ID 1010: "The Hobbit" by J.R.R. Tolkien
+- Book ID 1012: "The Brothers Karamazov" by Fyodor Dostoevsky
+- Book ID 1016: "Fahrenheit 451" by Ray Bradbury
+Unknown command: 
+Books by Author "J.R.R. Tolkien":
+- Book ID 1006: "The Lord of the Rings" by J.R.R. Tolkien
+- Book ID 1010: "The Hobbit" by J.R.R. Tolkien
+Books by Author "Fyodor Dostoevsky":
+- Book ID 1011: "Crime and Punishment" by Fyodor Dostoevsky
+- Book ID 1012: "The Brothers Karamazov" by Fyodor Dostoevsky
+Books by Author "Aldous Huxley":
+- Book ID 1015: "Brave New World" by Aldous Huxley
+Unknown command: 
+Patron 2001 has not borrowed any books.
+Patron 2002 borrowed the following books:
+- "Dracula" (Book ID: 1013)
+Patron 2003 borrowed the following books:
+- "Frankenstein" (Book ID: 1014)
+Patron 2004 borrowed the following books:
+- "The Catcher in the Rye" (Book ID: 1005)
+- "Brave New World" (Book ID: 1015)
+Patron 2005 has not borrowed any books.
+Unknown command: 
+Book ID 1007 not found or is currently borrowed.
+Book ID 1008 not found or is currently borrowed.
+Book ID 1009 not found or is currently borrowed.
+Removed Book: 1010 - "The Hobbit" by J.R.R. Tolkien
+Book ID 1011 not found or is currently borrowed.
+Removed Book: 1012 - "The Brothers Karamazov" by Fyodor Dostoevsky
+Unknown command: 
+Book ID 9999 not found or is currently borrowed.
+Unknown command: 
+Added Book: 1020 - "The Fault in Our Stars" by John Green, ISBN: 9780525478812
+Patron 2002 borrowed "The Fault in Our Stars" (Book ID: 1020)
+Patron 2002 returned "The Fault in Our Stars" (Book ID: 1020)
+Book Details for ID 1020:
+            - "The Fault in Our Stars" by John Green, ISBN: 9780525478812, Available: Yes

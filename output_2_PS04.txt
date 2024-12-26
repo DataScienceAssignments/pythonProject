@@ -1,0 +1,22 @@
+Added Book: 1001 - "The Great Gatsby" by F. Scott Fitzgerald, ISBN: 9780743273565
+Added Book: 1002 - "To Kill a Mockingbird" by Harper Lee, ISBN: 9780061120084
+Added Book: 1003 - "1984" by George Orwell, ISBN: 9780451524935
+Added Book: 1004 - "Pride and Prejudice" by Jane Austen, ISBN: 9781503290563
+Added Patron: 2001 - John Doe
+Added Patron: 2002 - Jane Smith
+Patron 2001 borrowed "To Kill a Mockingbird" (Book ID: 1002)
+Patron 2002 borrowed "1984" (Book ID: 1003)
+Patron 2002 returned "1984" (Book ID: 1003)
+Book ID 1998 not found.
+Book Details for ID 1002:
+            - "To Kill a Mockingbird" by Harper Lee, ISBN: 9780061120084, Available: No
+Available Books:
+- Book ID 1001: "The Great Gatsby" by F. Scott Fitzgerald
+- Book ID 1003: "1984" by George Orwell
+- Book ID 1004: "Pride and Prejudice" by Jane Austen
+Books by Author "George Orwell":
+- Book ID 1003: "1984" by George Orwell
+Patron 2001 borrowed the following books:
+- "To Kill a Mockingbird" (Book ID: 1002)
+Removed Book: 1001 - "The Great Gatsby" by F. Scott Fitzgerald
+Removed Book: 1003 - "1984" by George Orwell
